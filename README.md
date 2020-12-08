@@ -4,8 +4,6 @@
   - José Eduardo - 5964 - T2
   - Henrique Alves - 5968 - T2
 
-  
-**Link repositório:** https://github.com/HenriqueAFPaiva/Projeto-SIN351-2
 
 **Objetivo:**
   Desenvolver um algoritmo de subistituição de páginas (Memória Virtual) em linguagem C para a disciplina de **Sistemas Operacionais - SIN351**
