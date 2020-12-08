@@ -22,4 +22,4 @@
 
 **Executar:**
 
-``./vmm random 10 < anomaly.dat```
+```./vmm random 10 < anomaly.dat```
