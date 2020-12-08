@@ -15,10 +15,6 @@
   
 **Erros conhecidos:**
   - Quando o "free(f.itens);" é executado o seguinte erro ocorre: "double free or corruption (out)" e o programa é abortado, por isso o "free(f.itens);" está comentado no código;
-  
-**Compilar o projeto:**
-
-```gcc -Wall vmm.c```
 
 **Executar:**
 
