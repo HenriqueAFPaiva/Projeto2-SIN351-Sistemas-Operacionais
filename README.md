@@ -6,7 +6,7 @@
 
 
 **Objetivo:**
-  Desenvolver um algoritmo de subistituição de páginas (Memória Virtual) em linguagem C para a disciplina de **Sistemas Operacionais - SIN351**
+  Desenvolver um algoritmo de substituição de páginas (Memória Virtual) em linguagem C para a disciplina de **Sistemas Operacionais - SIN351**
   
 **Algoritmo de Substituição escolhido:**
   - FIFO;
